@@ -1,0 +1,96 @@
+{
+  "sneakers": [
+    {
+      "id": 1,
+      "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 12999,
+      "imageUrl": "sneakers/sneakersImage1.png"
+    },
+    {
+      "id": 2,
+      "title": "Мужские Кроссовки Nike Air Max 270",
+      "price": 15600,
+      "imageUrl": "sneakers/sneakersImage2.png"
+    },
+    {
+      "id": 3,
+      "title": "Мужские Кроссовки Nike Blazer Mid Suedeee",
+      "price": 8499,
+      "imageUrl": "sneakers/sneakersImage3.png"
+    },
+    {
+      "id": 4,
+      "title": "Кроссовки Puma X Aka Boku Future Rider",
+      "price": 8999,
+      "imageUrl": "sneakers/image4.png"
+    },
+    {
+      "id": 5,
+      "title": "Кроссовки Future Rider",
+      "price": 16999,
+      "imageUrl": "sneakers/image5.png"
+    },
+    {
+      "id": 6,
+      "title": "Кроссовки Black Edition",
+      "price": 16999,
+      "imageUrl": "sneakers/image6.png"
+    },
+    {
+      "id": 7,
+      "title": "Кроссовки Orange Boomb Edition111",
+      "price": 7499,
+      "imageUrl": "sneakers/image7.png"
+    },
+    {
+      "id": 8,
+      "title": "Кроссовки Orange Boomb Edition112",
+      "price": 7499,
+      "imageUrl": "sneakers/image8.png"
+    },
+    {
+      "id": 9,
+      "title": "Кроссовки Orange Boomb Edition113",
+      "price": 7499,
+      "imageUrl": "sneakers/image9.png"
+    },
+    {
+      "id": 10,
+      "title": "Кроссовки Orange Boomb Edition114",
+      "price": 7499,
+      "imageUrl": "sneakers/image10.png"
+    }
+  ],
+  "favorites": [],
+  "orders": [
+    {
+      "name": "Irem",
+      "tel": "3719376",
+      "city": "Bishkek",
+      "street": "Frunze",
+      "info": "trhdtjtuyl",
+      "pay": "Наличными",
+      "money": "100000",
+      "checkbox": true,
+      "order": [
+        {
+          "id": 2,
+          "title": "Мужские Кроссовки Nike Air Max 270",
+          "price": 15600,
+          "imageUrl": "sneakers/sneakersImage2.png"
+        },
+        {
+          "id": 1,
+          "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+          "price": 12999,
+          "imageUrl": "sneakers/sneakersImage1.png"
+        }
+      ],
+      "price": 28599,
+      "nds": 1430,
+      "change": 71401,
+      "date": "29.03.2022",
+      "id": 1
+    }
+  ]
+}
